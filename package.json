@@ -20,7 +20,7 @@
     "chalk": "^2.4.2",
     "dotenv": "^7.0.0",
     "express": "^4.16.4",
-    "express-handlebars": "^3.0.2",
+    "express-handlebars": "^5.3.1",
     "i": "^0.3.6",
     "mysql2": "^1.6.5",
     "sequelize": "^5.8.5",
